@@ -1,0 +1,114 @@
+.fs-10
+{
+    font-size: 9px;
+}
+.fs-12
+{
+    font-size: 13px;
+    
+}
+.bg-vung3, .bg-vung4
+{
+    background-color: #313131;
+    color:white;
+}
+.fa-facebook, .fa-twitter, .fa-youtube, .fa-instagram
+{
+    
+    border: 1px solid #ffffff;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 40px;
+    width: 40px;
+    height:40px;
+    font-size: 20px;
+}
+.brand
+{
+    width: 220px;
+    font-size: 20px;
+}
+.email
+{
+    margin: auto;
+    font-size: 20px;
+}
+.aos
+{
+    color: red;
+}
+.bg-menu1
+{
+    background-color: #f26522;
+    border: none;
+}
+.bg-menu2
+{
+    background-color: #da5b1f;
+}
+
+.giohang-ikon
+{
+    font-size: 1px;
+    width: 40px;
+    height:40px;
+    border: 1px solid #a5a2a2;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 40px;
+}
+.color-but
+{
+    border: 2px solid rgb(136, 136, 136);
+    border-radius: 12px;    
+}
+.home-product
+{
+    font-size: 1.25rem;   
+    line-height: 1.8rem;
+    height: 1.8rem;
+    overflow: hidden;
+    display: block;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+    text-overflow: ellipsis; 
+    font-weight: bold; 
+}
+.post
+{
+    font-size: 1.25rem;   
+    line-height: 1.8rem;
+    height: 13rem;
+    overflow: hidden;
+    display: block;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 7;
+    text-overflow: ellipsis; 
+}
+.buy-amount{
+    display: flex;
+}
+.buy-amount button{
+    width: 35px;
+    height: 35px;
+    outline: none;
+    background: none;
+    border: 1px solid #ececec;
+    cursor: pointer;
+}
+.buy-amount button:hover{
+    background: #ececec;
+}
+.buy-amount button svg{
+    color: #909090;
+}
+.buy-amount button:hover svg{
+    color: #4f4f4f;
+}
+.buy-amount .amount{
+    width: 40px;
+    text-align: center;
+    border: 1px solid #ececec;
+}
